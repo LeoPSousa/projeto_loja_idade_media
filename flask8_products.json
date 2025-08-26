@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome": "Espada",
+        "preco": 100
+    },
+    {
+        "id": 2,
+        "nome": "Poção",
+        "preco": 20
+    },
+    {
+        "id": 3,
+        "nome": "Arco",
+        "preco": 80
+    },
+    {
+        "id": 4,
+        "nome": "Martelo",
+        "preco": 35
+    },
+    {
+        "id": 5,
+        "nome": "Capa",
+        "preco": 30.5
+    },
+    {
+        "id": 6,
+        "nome": "Escudo de Diamante",
+        "preco": 105
+    }
+]
